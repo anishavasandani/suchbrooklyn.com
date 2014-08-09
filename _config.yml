@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
+title: Such Brooklyn
 locale: en_US
-description: Describe your website here.
+description: We're a team of writers who celebrate & curate all things Brooklyn — North & South agnostic. <br>This is a borough lovin' lifestyle archive.
 logo: site-logo.png
 search: true
-url: 
+url:
 
 
 # Jekyll configuration
@@ -32,22 +32,22 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Such Brooklyn
   avatar: bio-photo.jpg
   email: you@email.com
-  disqus-shortname:
-  twitter:
+  disqus-shortname: suchbrooklyn
+  twitter: suchbrooklyn
   facebook:
   github:
   stackexchange:
   linkedin:
-  instagram:
+  instagram: suchbrooklyn
   flickr:
   tumblr:
   google:
     plus:
-    analytics:
+    analytics: UA-53640022-1
     verify:
     ad-client:
-    ad-slot: 
+    ad-slot:
   bing-verify:
