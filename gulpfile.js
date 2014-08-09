@@ -19,7 +19,7 @@ gulp.task('compass', function(done) {
   run('compass compile .', done);
 });
  
-gulp.task('jekyll', ['compass'], function(done) {
+gulp.task('jekyll', function(done) {
   // Compile Jekyll into `dist`. This task executes the `compass` task each time,
   // it could be optimized to only execute it if SASS files are changed.
   run('jekyll build', done);
