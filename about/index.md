@@ -1,21 +1,21 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2013-09-13
+title: about Such Brooklyn
+excerpt: ""
+modified: 2014-08-08
 image:
   feature: so-simple-sample-image-4.jpg
-  credit: Michael Rose
-  creditlink: http://mademistakes.com
+  credit: Such Brooklyn
+  creditlink: http://www.instagram.com/suchbrooklyn
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+Does the site look a bit sparse? We're working on archiving some of
 
 ## So Simple Theme is all about:
 
 * Responsive templates. Looking good on mobile, tablet, and desktop.
 * Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations. 
+* Minimal embellishments and subtle animations.
 * Readable typography to make your words shine.
 * Support for large images to call out your favorite posts.
 * Disqus comments if you choose to enable.
