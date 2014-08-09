@@ -1,13 +1,20 @@
 language: ruby
-rvm:
-  - 2.1
 
-before_install:
-  - export NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+rvm:
+  - 2.1.2
+
+install:
+  - bundle install
+  - npm install
 
 script:
-  - bundle exec jekyll build --drafts
-  - bundle exec htmlproof ./_site
+  - gulp deploy
 
-notifications:
-  email: false
+after_success: s3_website push --headless
+
+env:
+  global:
+    - secure: WUtMInoqdxIr76dn/mlcAEQR1M86TYhWOUIJkr1uXKLJy/Dr+l9oruKGBQ6+CP4dlL7lZ8iQVkC/qRPis/3EwnSeBMVQwDPwcGi5Jaw4WYJFL9GVBt7qMGXDIZ7A3maS8iVRg8Gr+OJfKF/58Vxzv8aailnUmMLFgyR444O0egs=
+    - secure: ULhrR+VBDRs7zK4dO8D3FXSVe7IY8GZUaW4vGW8C01eyjYOvPlV/tiaQKC8rGXvsN/LfPzzz6mOv+rWAAcOI9WoHufVjk+YM7d65s/6zTdWwD2T+XEeV8Tc4diaX9vdFPFDEm/KxpvWaVmcvIt4XxmRdijjj/69B8IJFMShG7F4=
+    - secure: EKoKVSwoKVgYNtdvUWLEWDGghZZKNdqgzYNfiFh0R6JlY9+ggKZMvW/AP2YCTxD3E3Cgjc6d9/qlrHsDUdKS/xlKZ8wixkkxjb1K5Lhk8cUCaOZ5sSpiFj6nhN+OR/Qs5r18s+c2VSXfSgKfR9TdixpdqSzWz/jVHzbcTdv/MoY=
+    - secure: V9Y8+cQBPgii/t2d5yQCd/k2Feq9AoiRrUFhx/HoJL+LCMxV0CjGtF5MQ9tS8gDgi/vlYFhsssmMEmpzX710WAsjpCZAxUZIEI1xkhwc2PHVOste7L1UGGvhdXdYAHa7UaEuKT7Tdg4Lcnkox/+T3o7uOcOpcCRacl/enSjjI3g=
