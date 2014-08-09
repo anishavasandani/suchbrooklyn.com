@@ -10,7 +10,7 @@ install:
 script:
   - gulp deploy
 
-after_success: s3_website push --headless
+after_success: s3_website push
 
 env:
   global:
