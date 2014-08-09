@@ -3,14 +3,17 @@
 - title: About
   url: /about/
 
-- title: Articles
-  url: /articles/
+- title: Gastronomy
+  url: /gastronomy/
 
-- title: Blog
-  url: /blog/
+- title: Mixology
+  url: /mixology/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: On Repeat
+  url: /on_repeat/
 
-- title: Made Mistakes
-  url: http://mademistakes.com
+- title: Phonetography
+  url: /phonetography
+
+- title: Travel
+  url: /travel/
