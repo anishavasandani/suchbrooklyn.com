@@ -10,6 +10,8 @@ url:
 
 # Jekyll configuration
 
+source: src
+
 permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: pygments
