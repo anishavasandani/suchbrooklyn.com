@@ -1,13 +1,20 @@
 ---
 layout: post
 title: "Hello World"
+comments: true
 modified:
-categories: blog
+categories:
 excerpt:
 tags: []
 image:
   feature:
 date: 2014-08-08T15:39:55-04:00
+
+suggested_tweet:
+  url:                  'http://suchbrooklyn.com/gastronomy/'
+  via:                  'suchbrooklyn'
+  text:                 'hey hey'
+  hashtags:             ['suchbrooklyn']
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
@@ -31,3 +38,22 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 
 [jekyll-gh]: https://github.com/jekyll/jekyll
 [jekyll]:    http://jekyllrb.com
+
+<!-- Suggested Tweet -->
+<div class="entry-meta-suggested-tweet">
+  <h3 class="suggested-tweet-title">Sharing is Caring</h3>
+  <a href="{% suggested_tweet %}" class="suggested-tweet-bubble" target="_blank">
+    {% if page.suggested_tweet.text != empty %}
+      <span class="suggested-tweet-text">{{ page.suggested_tweet.text }}</span>
+    {% endif %}
+    {% if page.suggested_tweet.hashtags != empty %}
+      {% for hashtag in page.suggested_tweet.hashtags %}
+        <span class="suggested-tweet-hashtag">#{{ hashtag }}</span>
+      {% endfor %}
+    {% endif %}
+  </a>
+  <p class="suggested-tweet-link"><a href="{% suggested_tweet %}" class="icon-left icon-twitter" target="_blank">click to tweet</a> <small>(you may edit before posting.)</small></p>
+</div>
+
+<!-- Image Gallery -->
+

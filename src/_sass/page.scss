@@ -73,8 +73,8 @@ body {
 }
 .no-js #site-nav {
 	display: block;
-}	
-#nav-toggle { 
+}
+#nav-toggle {
 	z-index: 9999;
 	display: block;
 	vertical-align: top;
@@ -145,7 +145,7 @@ body {
     -webkit-animation-delay: .75s;
     -moz-animation-delay: .75s;
     -o-animation-delay: .75s;
-    animation-delay: .75s;	
+    animation-delay: .75s;
 	a { color: $black; }
 }
 .site-description {
@@ -364,18 +364,45 @@ span + .entry-title {
 		@include font-rem(14);
 		line-height: 2.5;
 	}
-	a { 
+	a {
 		padding: 4px 6px;
 		margin: 2px;
 		background-color: lighten($black, 90);
 		@include rounded(4px);
 		text-decoration: none;
-		span { 
+		span {
 			vertical-align: super;
 			@include font-rem(10);
 		}
 	}
 }
+
+// Twitter
+//--------------------------------------------------
+.suggested-tweet-bubble {
+position: relative;
+width: 600px;
+height: 70px;
+padding: 10px;
+background: #D3D3D3;
+-webkit-border-radius: 12px;
+-moz-border-radius: 12px;
+border-radius: 12px;
+}
+
+.suggested-tweet-bubble:after {
+content: '';
+position: absolute;
+border-style: solid;
+border-width: 13px 12px 0;
+border-color: #D3D3D3 transparent;
+display: block;
+width: 0;
+z-index: 1;
+bottom: -13px;
+left: 58px;
+}
+
 // Search
 // --------------------------------------------------
 .search-wrapper {

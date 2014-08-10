@@ -4,6 +4,8 @@ title: Phonetography
 excerpt: "An archive of blog posts sorted by date."
 ---
 
+<p>Well, this is pretty self-explanatory. You're welcs to insta-stalk <a href="http://www.instagram.com/suchbrooklyn" target="_blank">us.</a></p>
+
 {% instagram accesstokenpath:instagram_access_token.txt %}
   <div>
     <h3>{{ item.caption.text }}</h3>
