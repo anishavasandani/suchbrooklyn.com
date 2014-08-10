@@ -1,8 +1,3 @@
 # Site wide configuration
 
-title: Site Title Development <3
-locale: en_US
-description: Describe your website here.
-logo: site-logo.png
-search: true
-url: 
+url:
