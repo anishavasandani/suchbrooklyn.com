@@ -5,7 +5,7 @@ locale: en_US
 description: We're a team of writers who celebrate & curate all things Brooklyn — North & South agnostic. <br>This is a borough lovin' lifestyle archive.
 logo: site-logo.png
 search: true
-url:
+url: http://www.suchbrooklyn.com
 
 
 # Jekyll configuration
@@ -18,8 +18,6 @@ highlighter: pygments
 sass:
   sass_dir: _sass
   style: compressed
-gems:
-  - jekyll-sitemap
 
 kramdown:
   auto_ids: true
@@ -30,6 +28,24 @@ kramdown:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+# sitemap.xml
+
+sitemap:
+    file: "/sitemap.xml"
+    exclude:
+        - "/atom.xml"
+        - "/feed.xml"
+        - "/feed/index.xml"
+    include_posts:
+        - "/index.html"
+        - "/gastronomy/index.html"
+        - "/mixology/index.html"
+        - "/on_repeat/index.html"
+        - "/phonetography/index.html"
+        - "/travel/index.html"
+    change_frequency_name: "change_frequency"
+    priority_name: "priority"
 
 
 # Site owner
