@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello World"
+title: "Gastronomy Post"
 comments: true
 modified:
 categories:

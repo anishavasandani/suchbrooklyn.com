@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Hello World"
+title: "phonetography"
 modified:
-categories: tunes
+categories: phonetography
 excerpt:
 tags: []
 image:
