@@ -1,20 +1,14 @@
 language: ruby
-
 rvm:
-  - 2.1.2
-
+- 2.1.2
 install:
-  - bundle install
-  - npm install
-
+- bundle install
+- npm install
 script:
-  - gulp deploy
-
+- gulp deploy
 after_success: s3_website push
-
 env:
   global:
-    - secure: WUtMInoqdxIr76dn/mlcAEQR1M86TYhWOUIJkr1uXKLJy/Dr+l9oruKGBQ6+CP4dlL7lZ8iQVkC/qRPis/3EwnSeBMVQwDPwcGi5Jaw4WYJFL9GVBt7qMGXDIZ7A3maS8iVRg8Gr+OJfKF/58Vxzv8aailnUmMLFgyR444O0egs=
-    - secure: ULhrR+VBDRs7zK4dO8D3FXSVe7IY8GZUaW4vGW8C01eyjYOvPlV/tiaQKC8rGXvsN/LfPzzz6mOv+rWAAcOI9WoHufVjk+YM7d65s/6zTdWwD2T+XEeV8Tc4diaX9vdFPFDEm/KxpvWaVmcvIt4XxmRdijjj/69B8IJFMShG7F4=
-    - secure: EKoKVSwoKVgYNtdvUWLEWDGghZZKNdqgzYNfiFh0R6JlY9+ggKZMvW/AP2YCTxD3E3Cgjc6d9/qlrHsDUdKS/xlKZ8wixkkxjb1K5Lhk8cUCaOZ5sSpiFj6nhN+OR/Qs5r18s+c2VSXfSgKfR9TdixpdqSzWz/jVHzbcTdv/MoY=
-    - secure: V9Y8+cQBPgii/t2d5yQCd/k2Feq9AoiRrUFhx/HoJL+LCMxV0CjGtF5MQ9tS8gDgi/vlYFhsssmMEmpzX710WAsjpCZAxUZIEI1xkhwc2PHVOste7L1UGGvhdXdYAHa7UaEuKT7Tdg4Lcnkox/+T3o7uOcOpcCRacl/enSjjI3g=
+  - secure: UXtajsCeL4LZfPtg1ip2ZJtyFyyVvmjUypUIFQ//TirDPa7gKMTChkrOsxgsQqkQobi7W/nU4IUzmSnt/UngBsMiOEynIfBU0+aev0QXLBpvjyAoOpEea3KBTB0q3XUmtMQ6i/q1B0kg8hjFcGxvsQhewgTfPtb4H0G/LaO/288=
+  - secure: KYP1AnEEutS8ZnBj337VnixTEbMnJ3BWUlnAt2EnHokXhCgBBheU95PGGHIh4auF5rzqwZeBVPKjlIF2JNkZ7Dc4WNqv16HsRQtKfv+jIwJ0EC613ia3QsP1zoAH4Xq/0IJKrS5LaImWksQODo5CJUsVR6EGr40la9sQsfJ1cpk=
+  - secure: YCUphGC1JN7NYF4i69Z5gK5Y0V+d5glKUDRumDt9rmcafXsJ9+BEllzigUYXYMsVZz6Utl+LLxAxjJJbt2ubTv7oxc/pS3hL2JzAwvxLb9Zk5Ubdr+gccN+8cydKeYRSkn+aendFDpVk2tq5Q8N/ly0QMtXSwh3wxtMLeQZGgyM=

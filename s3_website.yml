@@ -1,6 +1,6 @@
 s3_id: <%= ENV['AWS_S3_KEY'] %>
 s3_secret: <%= ENV['AWS_S3_SECRET'] %>
-s3_bucket: suchbrooklyn.com
+s3_bucket: www.suchbrooklyn.com
 cloudfront_distribution_id: E1MLN4C5EX6SCF
 cloudfront_distribution_config:
   default_cache_behavior:
@@ -8,7 +8,7 @@ cloudfront_distribution_config:
   aliases:
     quantity: 1
     items:
-      CNAME: '*.suchbrooklyn.com'
+      CNAME: 'www.suchbrooklyn.com'
 max_age: 120
 gzip: true
 gzip_zopfli: true
