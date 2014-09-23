@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "phonetography"
+title: "Phonetography"
 modified:
 categories: phonetography
 excerpt:

@@ -3,7 +3,7 @@ layout: post
 title: "Gastronomy Post"
 comments: true
 modified:
-categories:
+categories: gastronomy
 excerpt:
 tags: []
 image:

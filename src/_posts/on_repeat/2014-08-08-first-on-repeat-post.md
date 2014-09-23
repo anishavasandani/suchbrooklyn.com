@@ -2,7 +2,7 @@
 layout: post
 title: "On Repeat"
 modified:
-categories: tunes
+categories: on_repeat
 excerpt:
 tags: []
 image:
