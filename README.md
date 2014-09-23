@@ -1,5 +1,7 @@
 # Such Brooklyn
 
+[![Build Status](https://travis-ci.org/anishavasandani/suchbrooklyn.com.svg?branch=master)](https://travis-ci.org/anishavasandani/suchbrooklyn.com)
+
 ## Getting Started
 
 `bundle install`
