@@ -4,19 +4,19 @@ title: Phonetography
 excerpt: "An archive of blog posts sorted by date."
 ---
 
+<link rel="stylesheet" href="{{ site.url }}/assets/css/justifiedgallery.css">
+<script type="text/javascript" src="//code.jquery.com/jquery-1.10.2.min.js"></script>
+<script src="{{ site.url }}/assets/js/vendor/jquery.justifiedgallery.js"></script>
+
 <p>Well, this is pretty self-explanatory. You're welcs to insta-stalk <a href="http://www.instagram.com/suchbrooklyn" target="_blank">us.</a></p>
 
+<div class="instafeed">
 {% instagram accesstokenpath:instagram_access_token.txt %}
-  <div>
-    <h3>{{ item.caption.text }}</h3>
-    <img src="{{ item.images.standard_resolution.url }}" />
-  </div>
+
+    <a href="{{ item.link }}" target="_blank"><img src="{{ item.images.standard_resolution.url }}" /></a>
 {% endinstagram %}
+</div>
 
-This is the end of the Instagram feed. Now posts with the catagory phonetography are listed. This shoud probably be removed.
-
-<ul class="post-list">
-{% for post in site.categories.phonetography %}
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
-{% endfor %}
-</ul>
+<script>
+  $(".instafeed").justifiedGallery({'rowHeight':250});
+</script>
