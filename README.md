@@ -1,19 +1,35 @@
-# Such Brooklyn
+# Landing Page Jekyll theme
 
-[![Build Status](https://travis-ci.org/anishavasandani/suchbrooklyn.com.svg?branch=master)](https://travis-ci.org/anishavasandani/suchbrooklyn.com)
+Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
 
-## Getting Started
+## How to use
+ - Place a image in `/img/services/`
+ - Create posts to display your services. Use the follow as an example:
 
-`bundle install`
-`npm install`
+```txt
+---
+layout: default
+img: ipad.png
+category: Services
+title: The service title
+description: The description of this service
+---
+```
 
-## Run It Locally
+## Demo
+View this jekyll theme in action [here](https://swcool.github.io/landing-page-theme)
 
-`jeykll serve --watch`
+## Screenshot
+![screenshot](https://raw.githubusercontent.com/swcool/landing-page-theme/master/img/screenshot.png)
 
-## Updates
+===
 
-It's a tad bit annoying, but everytime you need to refresh copy and/or javascript files, run:
+For more Jekyll details, read [documentation](http://jekyllrb.com/).
+This Jekyll theme used [Freelancer Jekyll theme](https://github.com/jeromelachaud/freelancer-theme/) as reference.
 
-`jekyll build`
+## License
+The contents of this repository are licensed under the [Apache
+2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
 
+## Version
+1.0.1
