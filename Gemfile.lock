@@ -137,4 +137,5 @@ DEPENDENCIES
   jekyll
   octopress (~> 3.0.0.rc.12)
   s3_website
+  sass
   twitter_web_intents

@@ -1,11 +1,15 @@
 # Site wide configuration
 
 title: Such Brooklyn
+email: anisha@suchbrooklyn.com
 locale: en_US
 description: We're a team of writers who celebrate & curate all things Brooklyn — North & South agnostic. <br>This is a borough lovin' lifestyle archive.
 logo: site-logo.png
 search: true
 url: http://www.suchbrooklyn.com
+
+site:
+  - email: anisha@suchbrooklyn.com
 
 social:
   # - title: twitter
@@ -15,9 +19,6 @@ social:
     url: https://instagram.com/suchbrooklyn
   # - title: linkedin
   #   url: 
-  - title: email
-    faicon: envelope
-    url: mailto:anisha@suchbrooklyn.com
 
 # Jekyll configuration
 
