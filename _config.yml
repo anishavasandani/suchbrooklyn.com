@@ -1,31 +1,82 @@
-# ----------------------- #
-#      Main Configs       #
-# ----------------------- #
+# Site wide configuration
 
-url: http://yoursite.com
-title: Your Awesome Site
-email: your-email@domain.com
-description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description."
-
-# ----------------------- #
-#    Jekyll & Plugins     #
-# ----------------------- #
-
-# Build settings
-markdown: kramdown
-permalink: pretty
-
-# ----------------------- #
-#   3rd Party Settings    #
-# ----------------------- #
+title: Such Brooklyn
+locale: en_US
+description: We're a team of writers who celebrate & curate all things Brooklyn — North & South agnostic. <br>This is a borough lovin' lifestyle archive.
+logo: site-logo.png
+search: true
+url: http://www.suchbrooklyn.com
 
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
-  - title: linkedin
-    url: 
+  # - title: twitter
+  #   url: https://twitter.com/suchbrooklyn
+  - title: instagram
+    faicon: instagram
+    url: https://instagram.com/suchbrooklyn
+  # - title: linkedin
+  #   url: 
+  - title: email
+    faicon: envelope
+    url: mailto:anisha@suchbrooklyn.com
+
+# Jekyll configuration
+
+source: src
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+# sitemap.xml
+
+sitemap:
+    file: "/sitemap.xml"
+    exclude:
+        - "/atom.xml"
+        - "/feed.xml"
+        - "/feed/index.xml"
+    include_posts:
+        - "/index.html"
+        - "/gastronomy/index.html"
+        - "/mixology/index.html"
+        - "/on_repeat/index.html"
+        - "/phonetography/index.html"
+        - "/travel/index.html"
+    change_frequency_name: "change_frequency"
+    priority_name: "priority"
+
+
+# Site owner
+owner:
+  name: Such Brooklyn
+  avatar: bio-photo.jpg
+  email: you@email.com
+  disqus-shortname: suchbrooklyn
+  twitter: suchbrooklyn
+  facebook:
+  github:
+  stackexchange:
+  linkedin:
+  instagram: suchbrooklyn
+  flickr:
+  tumblr:
+  google:
+    plus:
+    analytics: UA-53640022-1
+    verify: Z5PYo8qOvtkUkcHs9ODRFg91hOIPtT-32OFjAYKWuzI
+    ad-client:
+    ad-slot:
+  bing-verify:
