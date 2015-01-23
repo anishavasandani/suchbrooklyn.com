@@ -1,11 +1,22 @@
 ---
-layout: page
+layout: default
 title: Latest Posts
 excerpt: "A simple and clean responsive Jekyll theme for words and photos."
 ---
 
-<ul class="post-list">
-{% for post in site.posts limit:10 %}
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
-{% endfor %}
-</ul>
+<link rel="stylesheet" href="{{ site.url }}/assets/css/jquery.justifiedgallery.css">
+<script type="text/javascript" src="//code.jquery.com/jquery-1.10.2.min.js"></script>
+<script src="{{ site.url }}/assets/js/vendor/jquery.justifiedgallery.js"></script>
+
+<div id="home">
+  {% for post in site.posts %}
+  <a href="{{ post.url }}" title="{{ post.title }}">
+    <img src="{{ post.image.feature }}" alt="{{ post.title }}"/>
+  </a>
+  {% endfor %}
+</div>
+
+
+<script>
+$("#home").justifiedGallery({'rowHeight':320});
+</script>

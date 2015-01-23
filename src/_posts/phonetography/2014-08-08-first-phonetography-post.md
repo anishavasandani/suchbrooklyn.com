@@ -6,7 +6,7 @@ categories: phonetography
 excerpt:
 tags: []
 image:
-  feature:
+  feature: http://placehold.it/650x650.jpg
 date: 2014-08-08T15:39:55-04:00
 ---
 

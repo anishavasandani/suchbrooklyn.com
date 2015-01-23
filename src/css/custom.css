@@ -1,0 +1,96 @@
+a:link {color:#54b7c0;}
+a:visited {color:#54b7c0;}
+a:hover {color:#54b7c0;}
+a:active {color:#54b7c0;}
+
+.fa {
+  width: 1.7em;
+  text-align: center;
+}
+
+.container.content {
+  padding-top: 1em;
+  padding-bottom: 7em;
+}
+
+.navbar .nav {
+  float: right; }
+
+.navbar-header, .navbar-collapse {
+  font-family: 'Quicksand', sans-serif;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: #efefef;
+  font-size: 1em;
+}
+.navbar-inverse .navbar-brand {
+  color: #efefef;
+  font-size: 3.5em;
+}
+
+.navbar-brand  {
+  height: 45px;
+  margin-top: 30px;
+}
+
+.navbar {
+  border-radius: 0px;
+}
+
+.post {
+  line-height: 1.5;
+  font-size: 19px;
+  margin-bottom: 20px;
+}
+
+.post-preview {
+  font-size: 21px;
+  margin-bottom: 150px;
+}
+
+#disqus_thread {
+  margin-top: 30px;
+}
+
+
+.post img {
+  max-width: 550px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+
+.sidebar ul {
+  margin-bottom: 70px;
+}
+
+.sidebar li {
+  font-size: 1.5em;
+  margin-top: 1em;
+  margin-left: 20px;
+}
+
+body {
+  font-family: 'Josefin Sans', sans-serif;
+  color: #222;
+}
+
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4,
+h5, .h5,
+h6, .h6 {
+  margin-top: 20px;
+  font-weight: bold;
+  color: #333;
+}
+
+.footer {
+  padding: 40px 0;
+  color: #999;
+  background-color: #f9f9f9;
+  border-top: 1px solid #e5e5e5;
+  height: 250px;
+}

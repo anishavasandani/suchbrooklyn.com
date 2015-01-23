@@ -8,6 +8,7 @@ excerpt: "An archive of blog posts sorted by date."
 <script type="text/javascript" src="//code.jquery.com/jquery-1.10.2.min.js"></script>
 <script src="{{ site.url }}/assets/js/vendor/jquery.justifiedgallery.js"></script>
 
+
 <p>Well, this is pretty self-explanatory. You're welcs to insta-stalk <a href="http://www.instagram.com/suchbrooklyn" target="_blank">us.</a></p>
 
 <div class="instafeed">

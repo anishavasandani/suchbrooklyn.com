@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+{% include head.html %}
+</head>
+  <body>
+    {% include facebook-sdk.html %}
+    {% include navigation.html %}
+    <div class="container content">
+      {{ content }}
+    </div><!-- /.container -->
+    <div class="footer-wrapper">
+	  <footer role="contentinfo">
+	    {% include footer.html %}
+	  </footer>
+	</div><!-- /.footer-wrapper -->
+	{% include scripts.html %}
+    {% include ga.html %}
+    {% include rate.html %}
+  </body>
+</html>
