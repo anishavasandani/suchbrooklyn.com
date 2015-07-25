@@ -18,7 +18,7 @@ social:
     faicon: instagram
     url: https://instagram.com/suchbrooklyn
   # - title: linkedin
-  #   url: 
+  #   url:
 
 # Jekyll configuration
 
@@ -64,7 +64,7 @@ sitemap:
 owner:
   name: Such Brooklyn
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: anisha@suchbrooklyn.com
   disqus-shortname: suchbrooklyn
   twitter: suchbrooklyn
   facebook:
