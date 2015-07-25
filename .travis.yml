@@ -44,7 +44,7 @@ after_success:
     -u AC312cb948c4a3ec03d1ed446586a8c452:978a9303ff700aef36c32736eae46d44
 
 after_failure:
-    - curl -X POST 'https://api.twilio.com/2010-04-01/Accounts/AC312cb948c4a3ec03d1ed446586a8c452/Messages.json' \
+  - curl -X POST 'https://api.twilio.com/2010-04-01/Accounts/AC312cb948c4a3ec03d1ed446586a8c452/Messages.json' \
     --data-urlencode 'To=+16268020840'  \
     --data-urlencode 'From=+14155240043'  \
     --data-urlencode 'Body=SuchBrooklyn Deploy Failure!' \
