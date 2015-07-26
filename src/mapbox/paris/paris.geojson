@@ -12,7 +12,9 @@
                 ]
             },
             "properties": {
-                "name": "Rodin Museum"
+                "title": "Rodin Museum",
+                "marker-symbol": "museum",
+                "description": "The Musée Rodin in Paris, France, is a museum that was opened in 1919, dedicated to the works of the French sculptor Auguste Rodin."
             }
         },
         {
