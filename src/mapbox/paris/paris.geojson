@@ -1,0 +1,1449 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.315774000000033,
+                    48.855312,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rodin Museum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3376439999999548,
+                    48.860611,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Louvre Museum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.314589999999953,
+                    48.866048,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Petit Palais"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.296467000000007,
+                    48.864211,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Palais de Tokyo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.387899999999945,
+                    48.895595,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "City of Science and Industry"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3265609999999697,
+                    48.859961,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Musée d'Orsay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.297820999999999,
+                    48.864342,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Paris Museum of Modern Art"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3587219999999434,
+                    48.861422,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Musée de la Chasse et de la Nature"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.362139999999954,
+                    48.86294,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Le Marché des Enfants Rouges"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3291580000000067,
+                    48.842357,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "La Rotonde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1203550000000178,
+                    48.804865,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Palace of Versailles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.376751000000013,
+                    48.829824,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bibliothèque François Mitterrand",
+                "description": "If you take the metro out to the Bibliotheque Francois Mitterand, you go through a great park, and there's cafes and canals everywhere. There are also river boats on that end of the Seine and you can hop on for a drink. "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3631800000000567,
+                    48.8658319,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Petite Ceinture",
+                "description": "http://www.nytimes.com/2013/11/17/travel/above-below-and-around-paris-on-foot.html"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.32482200000004,
+                    48.869852,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Foyer de la Madeleine",
+                "description": "Le Foyer de la Madeleine can be accessed through a small side door of the church, behind the flower market. A favourite with very in-the-know customers working in the area, the service is provided by adorable ladies of the quartier who volunteer for the non-profit restaurant. You can get a complete meal for only 10 euros (15 if you’re not a member) which includes starter, main course and dessert. The food is delicious, the atmosphere is unique and the gains are destined to help the less fortunate (hence dining in a church)."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.294481000000019,
+                    48.85837,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Eiffel Tower",
+                "description": "send a postcard from the eiffel tower, it'll come w/ an eiffel tower stamp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3464139999999816,
+                    48.846222,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Panthéon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.349901999999929,
+                    48.852968,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cathédrale Notre-Dame de Paris"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3431040000000394,
+                    48.886705,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sacré-Cœur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3324219999999514,
+                    48.833832,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Catacombs of Paris"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.295028000000002,
+                    48.873792,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Arc de Triomphe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.300915000000032,
+                    48.872306,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Champs Elysees Paris"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3322520000000395,
+                    48.884123,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Moulin Rouge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3702859999999646,
+                    48.890173,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Le Centquatre",
+                "description": "art hub, previously city morgue, cool installations"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3274940000000015,
+                    48.863492,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tuileries Garden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3551720000000387,
+                    48.841842,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Grande Mosquée de Paris",
+                "description": "mint tea, pastries, hamam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.365526999999929,
+                    48.855611,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Place des Vosges"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.357230999999956,
+                    48.848926,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Arab World Institute",
+                "description": "top floor terrace has breathtaking views"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3512819999999692,
+                    48.85969,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Place Igor Stravinsky",
+                "description": "street art, great wandering area, stravinsky fountain, 16 work of sculptures: http://en.wikipedia.org/wiki/Stravinsky_Fountain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.322672000000012,
+                    48.863788,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Orangerie Museum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3562910000000556,
+                    48.844322,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Muséum national d'Histoire naturelle",
+                "description": "park "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3404239999999845,
+                    48.8800083,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Glaces Glazed ",
+                "description": "popular ice cream truck, turned storefront "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2882889999999634,
+                    48.864094,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hexagone"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3467749999999796,
+                    48.86527000000001,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stohrer",
+                "description": "founded by  King Louis XV’s pastry chef, created the baba au rhum; one of the oldest pastry shops in Paris"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3304200000000037,
+                    48.848016,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sadaharu Aoki",
+                "description": "asian-infused french pastries, get the black sesame eclair and hojicha macarons"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.346496000000002,
+                    48.852071,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Odette Paris",
+                "description": "cream puffs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3321320000000014,
+                    48.873441,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sadaharu Aoki - #2",
+                "description": "second location of sadaharu aoki (total 4 locations)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.356165400000009,
+                    48.8566972,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pozzetto",
+                "description": "small batch gelato"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3259009999999307,
+                    48.870448,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fauchon",
+                "description": "known for macaron et chocolat http://www.fauchon.com/fr/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3566180999999915,
+                    48.8515909,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Berthillon",
+                "description": "closed M & Tues. top notch ice cream yo. http://parisbymouth.com/berthillon/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.372199499999965,
+                    48.8544013,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Le Chocolat Alain Ducasse",
+                "description": "http://parisbymouth.com/le-chocolat-alain-ducasse/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3263319999999794,
+                    48.852461,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hugo et Victor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3239300000000185,
+                    48.853655,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "La Pâtisserie des Rêves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3648029999999385,
+                    48.861271,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rachel's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.360689999999977,
+                    48.863912,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bontemps patisserie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3641609999999673,
+                    48.873517,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hôtel du Nord",
+                "description": "creme brulee "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3515170000000585,
+                    48.857485,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hôtel de Ville",
+                "description": "carousel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3618890000000192,
+                    48.874454,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Les Enfants Gâtés",
+                "description": "epicurean shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.337594999999965,
+                    48.881546,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dirty Dick",
+                "description": "tiki bar, Hawaiian "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3675940000000537,
+                    48.862798,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bespoke"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3412570000000414,
+                    48.866382,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chez Georges",
+                "description": "wine cellar turned \"cave\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3408359999999675,
+                    48.86041,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Le Fumoir",
+                "description": "martini lounge overlooking of the Louvre, city hall. "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3457538000000113,
+                    48.8714112,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "F Bar",
+                "description": "Charlie Brock, cocktails "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3373109999999997,
+                    48.881508,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Glass",
+                "description": "https://medium.com/gone/in-between-the-sex-shops-a-paris-dive-bar-offers-serious-cocktails-deadly-serious-dancing-fabc4fb20fe9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3434029999999666,
+                    48.868987,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Silencio",
+                "description": "club, recommended by Alex, before midnight members only (David Lynch)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3399200000000064,
+                    48.879473,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Arnaud Delmontel",
+                "description": "recommended by Edward"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2989750000000413,
+                    48.877752,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Boulangerie Cohier"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.350960500000042,
+                    48.838667,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Le Boulanger de Monge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3687079999999696,
+                    48.860906,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Folks and Sparrows"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3063260000000128,
+                    48.856669,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Café Du Marché"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3025689999999486,
+                    48.858392,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "La Fontaine de Mars"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.32845199999997,
+                    48.865100000000005,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Angelina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3377259999999755,
+                    48.880501,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Buvette"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3665240000000267,
+                    48.864736,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Paperboy Paris"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.359624599999961,
+                    48.85706949999999,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rue des Rosiers",
+                "description": "falafel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3280999999999494,
+                    48.86513,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Le Meurice Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3800370000000157,
+                    48.856636,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bones"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3746059999999716,
+                    48.851378,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dersou",
+                "description": "5 cocktails, 5 entrees concept -- go for breakfast (porridge) or late night (a la carte)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.365048999999999,
+                    48.861721,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mary Celeste",
+                "description": "known for small plates by chef Haan Palcu-Chang, great cocktail program // recommended for dinner"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3642518000000337,
+                    48.86321290000001,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Table Ronde",
+                "description": "make reservations, supper club pop up with chefs from all around the world ~40e pp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.327311000000009,
+                    48.885273,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Le Bal Café",
+                "description": "English food + decent coffee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.364033999999947,
+                    48.862981,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Candelaria",
+                "description": "tacos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.347917999999936,
+                    48.867707,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Frenchie",
+                "description": "frenchie, frenchie to-go, frenchie wine bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3612849999999526,
+                    48.863324000000006,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chez Omar",
+                "description": "moroccan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.364567999999963,
+                    48.871678,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chez Prune"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3523709999999483,
+                    48.869439,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hero (resto coréen)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.359624599999961,
+                    48.85706949999999,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rue des Rosiers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3614559999999756,
+                    48.873077,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Liberté pâtisserie-boulangerie par Benoît Castel",
+                "description": "baguettes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3629680000000235,
+                    48.871234,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Du Pain et Des Idées",
+                "description": "sweet x4 different things (but well)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.345266000000038,
+                    48.886379,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Le Petit Bleu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3536599999999908,
+                    48.86677,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "La Gaîté Lyrique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.360783999999967,
+                    48.872372,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Holybelly"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3363180000000057,
+                    48.866159,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Telescope"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.381501000000071,
+                    48.873064,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "CREAM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.355790999999954,
+                    48.85443,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "La Caféothèque de Paris"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3617586999999958,
+                    48.8657864,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Foundation Cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.319863400000031,
+                    48.8697872,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Honor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.34078199999999,
+                    48.880682,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "kb cafeshop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.364796999999953,
+                    48.873503,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ten Belles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3546139999999696,
+                    48.863922,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Loustic",
+                "description": "American expats..."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.31837900000005,
+                    48.851682,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Coutume Café"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.365361000000007,
+                    48.861038,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Boot Café"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3675029999999424,
+                    48.857981,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fragment"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.381883,
+                    48.865354,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Le Perchoir",
+                "description": "sunset, cheap drinks, great view of sacre coeur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.326526000000058,
+                    48.856532,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Deyrolle",
+                "description": "taxidermy collection, go up the stairs (3/4 rooms of animals)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.367005000000063,
+                    48.860744,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Merci",
+                "description": "french urban outfitters"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3650910000000067,
+                    48.862349,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Papier Tigre",
+                "description": "handmade, paper"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.385683200000017,
+                    48.835455,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bercy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3892299999999977,
+                    48.832608,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Musée des Arts Forains"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.365542000000005,
+                    48.872423000000005,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Le Comptoir Général",
+                "description": "bar worth going to"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3675289999999904,
+                    48.873302,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hopital Saint-Louis Garden"
+            }
+        }
+    ]
+}
